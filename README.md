@@ -73,3 +73,6 @@ Aside from discussing changes in [pull requests](https://github.com/k9mail/k-9/p
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+## new line added
